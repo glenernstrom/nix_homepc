@@ -144,6 +144,7 @@
    element-desktop
    discord
    pcloud
+   zoom-us
    
    # Graphics
    inkscape
